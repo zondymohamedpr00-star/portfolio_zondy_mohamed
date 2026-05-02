@@ -188,3 +188,73 @@ html {
     .project-button:hover {
       background: #ea580c;
     }
+
+@media (max-width: 768px) {
+    .home-part {
+        min-height: 100vh;
+    }
+
+    .navigation {
+        width: 92%;
+        left: 50%;
+        transform: translateX(-50%);
+        top: 12px;
+        min-height: 54px;
+        justify-content: center;
+        flex-wrap: wrap;
+        border-radius: 18px;
+        padding: 8px 10px;
+    }
+
+    .navigation a {
+        padding: 8px 12px;
+        font-size: 15px;
+        border-radius: 12px;
+        white-space: nowrap;
+    }
+
+    .welcome-div {
+        top: 22%;
+        left: 6%;
+        right: 6%;
+    }
+
+    .welcome-div a {
+        font-size: 22px;
+    }
+
+    section {
+      padding: 20px 18px;
+    }
+}
+
+@media (max-width: 480px) {
+    .navigation {
+        width: calc(100% - 16px);
+        justify-content: space-between;
+    }
+
+    .navigation a {
+        flex: 1 1 auto;
+        text-align: center;
+        font-size: 14px;
+        padding: 8px 6px;
+    }
+
+    .welcome-div {
+        top: 24%;
+    }
+
+    .welcome-div h1 {
+        line-height: 1.1;
+        margin-bottom: 10px;
+    }
+
+    .welcome-div p {
+        margin-bottom: 30px;
+    }
+
+    .welcome-div a {
+        font-size: 19px;
+    }
+}
