@@ -1,6 +1,6 @@
 let part1 = "Hi, I'm Mohamed 👋";
-let part2 = "welcome in my profile !";
-let part3 = "Web Developer & 1st year computer science student";
+let part2 = "welcome in my profile ";
+let part3 = "Web Developer \n & 1st year computer science student";
 
 let i = 0;
 let j = 0;
