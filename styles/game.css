@@ -48,9 +48,7 @@ body {
     padding: 24px 0 34px;
 }
 
-.hidden {
-    display: none;
-}
+
 
 .start-screen {
     display: grid;
@@ -77,6 +75,7 @@ body {
     font-weight: 700;
     background: #0ea5e9;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
+    text-decoration: none;
 }
 
 .play-button:hover {
