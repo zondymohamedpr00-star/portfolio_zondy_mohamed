@@ -1,0 +1,71 @@
+<!Doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rock Paper Scissors</title>
+    <link rel="stylesheet" href="styles/game.css">
+  </head>
+  <body>
+    <div class="navigation">
+        <a href="index.html">home</a>
+        <a href="list-to-do.html">ListTodo</a>
+        <a href="game.html">game</a>
+    </div>
+    <div class="page-shell">
+      <section class="start-screen" id="start-screen">
+        <img class="start-image" src="images/game-start/image.png" alt="Game start image">
+        <a class="play-button" id="play-button" href="#game-part">Play</a>
+      </section>
+
+      <div class="game-part" id="game-part">
+        <div class="hero-copy">
+          <p class="eyebrow">Classic Game</p>
+          <p class="title">Rock Paper Scissors</p>
+          <p class="tagline">Pick your move, challenge the computer, and try to build the best score.</p>
+        </div>
+
+        <div class="moves-panel">
+          <button
+            onclick="
+              usermove('Rock');
+            "
+            class="move-button"
+          >
+            <img class="move-icone" src="images/game-images/Rock-emoji.png" alt="Rock">
+            <span>Rock</span>
+          </button>
+          <button
+            class="move-button"
+            onclick="
+              usermove('Paper');
+            "
+          >
+            <img class="move-icone" src="images/game-images/Paper-emoji.png" alt="Paper">
+            <span>Paper</span>
+          </button>
+          <button
+            class="move-button"
+            onclick="
+              usermove('Scissors');
+            "
+          >
+            <img class="move-icone" src="images/game-images/scissors-emoji.png" alt="Scissors">
+            <span>Scissors</span>
+          </button>
+        </div>
+
+        <div class="status-panel">
+          <div class="result-row">
+            <p class="js-result result"></p>
+            <button class="reset-button" onclick="resetScore()">Reset score</button>
+          </div>
+          <p class="js-move move-history"></p>
+          <p class="js-score score-board">Wins: 0, Losses: 0, Ties: 0</p>
+        </div>
+      </div>
+    </div>
+    
+    <script src="scripts/game.js"></script>
+  </body>
+</html>

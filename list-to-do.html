@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> ListTodo</title>
+    <link rel="stylesheet" href="styles/listTodo.css">
+</head>
+<body>
+    <main class="todo-page">
+        <section class="todo-box planner-layout">
+            <header class="planner-header">
+                <div class="top-bar">
+                    <nav class="menu">
+                        <a href="index.html">Home</a>
+                        <a href="list-to-do.html" class="active">ListToDo</a>
+                        <a href="game.html">Game</a>
+                    </nav>
+                    <div class="weather-box">
+                        <p class="today" id="today"></p>
+                        <p id="weather-text">Weather: loading...</p>
+                    </div>
+                </div>
+
+                <h1>Daily Planner</h1>
+                <p class="subtitle">Organize tasks, track progress, and stay focused.</p>
+            </header>
+
+            <section class="planner-main">
+                <form id="todo-form" class="todo-form">
+                    <div class="task-row">
+                        <input type="text" id="task-input" placeholder="Enter a task" required>
+                        <input type="time" id="time-input">
+                    </div>
+                    <button type="submit">Add Task</button>
+                </form>
+
+                <div class="progress-box">
+                    <p id="progress-text">0% completed</p>
+                    <div class="progress-track">
+                        <div id="progress-fill" class="progress-fill"></div>
+                    </div>
+                </div>
+
+                <p id="empty-state" class="empty-state">No tasks yet. Add your first task above.</p>
+                <ul id="todo-list" class="todo-list"></ul>
+            </section>
+        </section>
+    </main>
+
+    <script src="scripts/list-to-do.js"></script>
+</body>
+</html>
+
