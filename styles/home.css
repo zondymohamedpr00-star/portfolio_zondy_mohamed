@@ -189,27 +189,28 @@ html {
       background: #ea580c;
     }
 
+
 @media (max-width: 768px) {
     .home-part {
         min-height: 100vh;
     }
 
     .navigation {
-        width: 92%;
+        width: calc(100% - 28px);
         left: 50%;
         transform: translateX(-50%);
-        top: 12px;
-        min-height: 54px;
+        top: 20px;
+        min-height: 44px;
         justify-content: center;
         flex-wrap: wrap;
-        border-radius: 18px;
-        padding: 8px 10px;
+        border-radius: 16px;
+        padding: 5px 10px;
     }
 
     .navigation a {
-        padding: 8px 12px;
-        font-size: 15px;
-        border-radius: 12px;
+        padding: 7px 10px;
+        font-size: 14px;
+        border-radius: 10px;
         white-space: nowrap;
     }
 
@@ -230,15 +231,18 @@ html {
 
 @media (max-width: 480px) {
     .navigation {
-        width: calc(100% - 16px);
+        width: calc(100% - 36px);
+        top: 22px;
+        min-height: 40px;
         justify-content: space-between;
+        padding: 4px 8px;
     }
 
     .navigation a {
         flex: 1 1 auto;
         text-align: center;
-        font-size: 14px;
-        padding: 8px 6px;
+        font-size: 13px;
+        padding: 7px 6px;
     }
 
     .welcome-div {
@@ -257,4 +261,5 @@ html {
     .welcome-div a {
         font-size: 19px;
     }
+}  }
 }
