@@ -26,7 +26,10 @@ ____________________________________
 🌦️ API Used
 Weather data fetched using Fetch API
 📂 Project Structure
-<img width="1148" height="747" alt="image" src="https://github.com/user-attachments/assets/65d4a9a5-3c36-4c4f-91b7-8f73652a9ccc" />
+_______________________
+<img width="538" height="747" alt="image" src="https://github.com/user-attachments/assets/050bb7c5-c039-42cb-be87-65548369f3f3" />
+
+
 
 
              ________________________________________Figma version :__________________________________________________
