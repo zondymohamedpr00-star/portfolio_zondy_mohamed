@@ -1,23 +1,23 @@
 Personal Portfolio Website
 
-📌 About the Project
+ About the Project
 
 This is my personal portfolio website built to showcase my skills, projects, and experience as a front-end developer student.
 
 The website includes a clean Home page with a short introduction and navigation to my projects.
 __________________________________________________________________
-🚀 Projects Included
-📝 To-Do List App
+Projects Included
+To-Do List App
 Create, manage, and delete tasks
 Track completed tasks
 Displays current date (day, month, year)
 Shows weather data using API
                         __________________
-✂️ Rock Paper Scissors Game
+ Rock Paper Scissors Game
 Play against the computer
 Simple interactive game logic
 ___________________________________________________________________
-🛠️ Built With
+Built With
 HTML5
 CSS
 JavaScript (JS)
@@ -48,3 +48,18 @@ Weather data fetched using Fetch API
 │   └── game.js
 │   └──list-to-do.js 
 |   └── home.js
+             ___________________________________________________________________________________________________________
+Figma version :
+https://www.figma.com/design/hEk3KRwLg2OkDKyVga8x6c/projet-fin-d-ann%C3%A9e?node-id=0-1&p=f
+       ___________________________________________________________________________________________________________________________
+ online version :
+ https://zondymohamedpr00-star.github.io/potfolio_zondy_mohamed/
+__________________________________________________________________________________________________________________________________________
+<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/b96f348a-80fd-4ba4-a2ef-e0826a894c97" />
+<img width="1350" height="644" alt="image" src="https://github.com/user-attachments/assets/87e150e2-f9ee-476b-ba19-538059276c7c" />
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/4057b04a-b3e8-4ea1-b608-c326bdafe21f" />
+<img width="1352" height="647" alt="image" src="https://github.com/user-attachments/assets/884f5f90-628d-4237-8e66-4f78cd039914" />
+<img width="1355" height="646" alt="image" src="https://github.com/user-attachments/assets/3ab30198-bb3b-404d-ae48-7992949e4624" />
+
+
+
