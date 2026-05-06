@@ -26,28 +26,9 @@ ____________________________________
 🌦️ API Used
 Weather data fetched using Fetch API
 📂 Project Structure
+<img width="1148" height="747" alt="image" src="https://github.com/user-attachments/assets/65d4a9a5-3c36-4c4f-91b7-8f73652a9ccc" />
 
-│── index.html
-|__ list-to-do.html
-|__ game.html
-|__images/
-|    └── game-images/
-|       └── Paper-emoji.png
-|       └── Rock-emoji.png
-|       └── scissors-emoji.png
-|    └── game-start/
-|        └── image.png
-|    └── list-to-do/
-|        └── pexels-karola-g-4195499.jpg
-|     homescreen;jpg
-│── styles/
-│   └── game.css
-|   └── listTodo.css
-|   └── home.css.css
-│── scripts/
-│   └── game.js
-│   └──list-to-do.js 
-|   └── home.js
+
              ________________________________________Figma version :__________________________________________________
 
 https://www.figma.com/design/hEk3KRwLg2OkDKyVga8x6c/projet-fin-d-ann%C3%A9e?node-id=0-1&p=f
