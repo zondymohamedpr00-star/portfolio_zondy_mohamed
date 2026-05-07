@@ -12,21 +12,23 @@ Built With;
 HTML5;
 CSS;
 JavaScript (JS);
-Fetch API (for weather data)
+Fetch API (for weather data);
+Local Storage API (presist user data in the browesr)
 ____________________________________
 🌦️ API Used
-Weather data fetched using Fetch API______________________________________________________________________________________________________
+The application integrates a Weather API for real-time weather information and uses the browser’s Local Storage to save and persist data locally.
+______________________________________________________________________________________________________
 📂 Project Structure
-_______________________
+__________________________________________________________________________________________________________________________________________
 <img width="538" height="747" alt="image" src="https://github.com/user-attachments/assets/050bb7c5-c039-42cb-be87-65548369f3f3" />
 
 
 
 
-             ________________________________________Figma version :__________________________________________________
+_____________________________________________________________Figma version :_____________________________________________________________
 
 https://www.figma.com/design/hEk3KRwLg2OkDKyVga8x6c/projet-fin-d-ann%C3%A9e?node-id=0-1&p=f
-        ____________________________________________ online version :__________________________________________________________________
+____________________________________________________________online version :_____________________________________________________________
  https://zondymohamedpr00-star.github.io/potfolio_zondy_mohamed/
 __________________________________________________________________________________________________________________________________________
 <img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/b96f348a-80fd-4ba4-a2ef-e0826a894c97" />
