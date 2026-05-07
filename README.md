@@ -6,9 +6,9 @@ This is my personal portfolio website built to showcase my skills, projects, and
 
 The website includes a clean Home page with a short introduction and navigation to my projects.
 __________________________________________________________________
-The projects included a To-Do List application that allows users to create, manage, and delete tasks efficiently while also tracking completed items. The app enhances usability by displaying the current date, including the day, month, and year, and integrates a weather API to show real-time weather data. In addition, a Rock Paper Scissors game was developed, where the user can play against the computer using simple and interactive game logic, providing an engaging and dynamic user experience.
+The projects included a To-Do List application that allows users to create, manage, and delete tasks efficiently while also tracking completed items. The app enhances usability by displaying the current date, including the day, month, and year, and integrates a weather API to show real-time weather data. In addition, a Rock Paper Scissors game, where the user can play against the computer using simple and interactive game logic, providing an engaging and dynamic user experience.
 ___________________________________________________________________
-Built With;
+Built With:
 HTML5;
 CSS;
 JavaScript (JS);
