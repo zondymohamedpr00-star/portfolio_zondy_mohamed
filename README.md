@@ -30,7 +30,7 @@ Figma version :
 https://www.figma.com/design/hEk3KRwLg2OkDKyVga8x6c/projet-fin-d-ann%C3%A9e?node-id=0-1&p=f
 
  Online version :
- https://zondymohamedpr00-star.github.io/potfolio_zondy_mohamed/
+ https://zondymohamedpr00-star.github.io/portfolio_zondy_mohamed/
 __________________________________________________________________________________________________________________________________________
 <img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/b96f348a-80fd-4ba4-a2ef-e0826a894c97" />
 <img width="1350" height="644" alt="image" src="https://github.com/user-attachments/assets/87e150e2-f9ee-476b-ba19-538059276c7c" />
